@@ -1,0 +1,5 @@
+Enviar arquivos:
+
+git add .
+git commmit -m "comentário"
+git push origin main
